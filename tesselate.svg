@@ -1,0 +1,598 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="544" height="900"  version="1.1"
+     xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+
+<g id="triangle1" 
+style="fill: rgb(229,90,90); stroke: rgb(200,155,155); stroke-width: 2; opacity: 1.0;">
+<path d="M30 45,50 65,70 45Z" />
+</g>
+
+<g id="triangle2" 
+style="fill: rgb(240,150,150); stroke: rgb(200,155,155); stroke-width: 2; opacity: 1.0;">
+<path d="M30 45,50 65,70 45Z" />
+</g>
+
+<g id="diamond1" 
+style="fill: rgb(240,200,90); stroke: rgb(200,155,155); stroke-width: 2; opacity: 1.0;">
+<path d="M50 65,90 65,110 45,70 45Z" />
+</g>
+
+<g id="diamond2" 
+style="fill: rgb(293,229,229); stroke: rgb(200,155,155); stroke-width: 2; opacity: 1.0;">
+<path d="M50 65,90 65,110 45,70 45Z" />
+</g>
+
+
+</defs>
+
+<use xlink:href="#triangle1" transform="translate(-50,-45)" />
+<use xlink:href="#triangle2" transform="translate(-50,85) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,-5)" />
+<use xlink:href="#triangle2" transform="translate(-6,125) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,35)" />
+<use xlink:href="#triangle2" transform="translate(-50,165) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,75)" />
+<use xlink:href="#triangle2" transform="translate(-6,205) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,115)" />
+<use xlink:href="#triangle2" transform="translate(-50,245) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,155)" />
+<use xlink:href="#triangle2" transform="translate(-6,285) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,195)" />
+<use xlink:href="#triangle2" transform="translate(-50,325) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,235)" />
+<use xlink:href="#triangle2" transform="translate(-6,365) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,275)" />
+<use xlink:href="#triangle2" transform="translate(-50,405) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,315)" />
+<use xlink:href="#triangle2" transform="translate(-6,445) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,355)" />
+<use xlink:href="#triangle2" transform="translate(-50,485) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,395)" />
+<use xlink:href="#triangle2" transform="translate(-6,525) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-50,435)" />
+<use xlink:href="#triangle2" transform="translate(-50,565) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(-6,475)" />
+<use xlink:href="#triangle2" transform="translate(-6,605) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,-25)" />
+<use xlink:href="#triangle2" transform="translate(13,65) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,15)" />
+<use xlink:href="#triangle2" transform="translate(57,105) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,55)" />
+<use xlink:href="#triangle2" transform="translate(13,145) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,95)" />
+<use xlink:href="#triangle2" transform="translate(57,185) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,135)" />
+<use xlink:href="#triangle2" transform="translate(13,225) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,175)" />
+<use xlink:href="#triangle2" transform="translate(57,265) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,215)" />
+<use xlink:href="#triangle2" transform="translate(13,305) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,255)" />
+<use xlink:href="#triangle2" transform="translate(57,345) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,295)" />
+<use xlink:href="#triangle2" transform="translate(13,385) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,335)" />
+<use xlink:href="#triangle2" transform="translate(57,425) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,375)" />
+<use xlink:href="#triangle2" transform="translate(13,465) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,415)" />
+<use xlink:href="#triangle2" transform="translate(57,505) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(13,455)" />
+<use xlink:href="#triangle2" transform="translate(13,545) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(57,495)" />
+<use xlink:href="#triangle2" transform="translate(57,585) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,-45)" />
+<use xlink:href="#triangle2" transform="translate(76,85) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,-5)" />
+<use xlink:href="#triangle2" transform="translate(120,125) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,35)" />
+<use xlink:href="#triangle2" transform="translate(76,165) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,75)" />
+<use xlink:href="#triangle2" transform="translate(120,205) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,115)" />
+<use xlink:href="#triangle2" transform="translate(76,245) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,155)" />
+<use xlink:href="#triangle2" transform="translate(120,285) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,195)" />
+<use xlink:href="#triangle2" transform="translate(76,325) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,235)" />
+<use xlink:href="#triangle2" transform="translate(120,365) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,275)" />
+<use xlink:href="#triangle2" transform="translate(76,405) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,315)" />
+<use xlink:href="#triangle2" transform="translate(120,445) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,355)" />
+<use xlink:href="#triangle2" transform="translate(76,485) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,395)" />
+<use xlink:href="#triangle2" transform="translate(120,525) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(76,435)" />
+<use xlink:href="#triangle2" transform="translate(76,565) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(120,475)" />
+<use xlink:href="#triangle2" transform="translate(120,605) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,-25)" />
+<use xlink:href="#triangle2" transform="translate(139,65) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,15)" />
+<use xlink:href="#triangle2" transform="translate(183,105) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,55)" />
+<use xlink:href="#triangle2" transform="translate(139,145) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,95)" />
+<use xlink:href="#triangle2" transform="translate(183,185) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,135)" />
+<use xlink:href="#triangle2" transform="translate(139,225) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,175)" />
+<use xlink:href="#triangle2" transform="translate(183,265) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,215)" />
+<use xlink:href="#triangle2" transform="translate(139,305) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,255)" />
+<use xlink:href="#triangle2" transform="translate(183,345) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,295)" />
+<use xlink:href="#triangle2" transform="translate(139,385) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,335)" />
+<use xlink:href="#triangle2" transform="translate(183,425) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,375)" />
+<use xlink:href="#triangle2" transform="translate(139,465) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,415)" />
+<use xlink:href="#triangle2" transform="translate(183,505) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(139,455)" />
+<use xlink:href="#triangle2" transform="translate(139,545) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(183,495)" />
+<use xlink:href="#triangle2" transform="translate(183,585) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,-45)" />
+<use xlink:href="#triangle2" transform="translate(202,85) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,-5)" />
+<use xlink:href="#triangle2" transform="translate(246,125) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,35)" />
+<use xlink:href="#triangle2" transform="translate(202,165) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,75)" />
+<use xlink:href="#triangle2" transform="translate(246,205) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,115)" />
+<use xlink:href="#triangle2" transform="translate(202,245) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,155)" />
+<use xlink:href="#triangle2" transform="translate(246,285) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,195)" />
+<use xlink:href="#triangle2" transform="translate(202,325) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,235)" />
+<use xlink:href="#triangle2" transform="translate(246,365) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,275)" />
+<use xlink:href="#triangle2" transform="translate(202,405) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,315)" />
+<use xlink:href="#triangle2" transform="translate(246,445) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,355)" />
+<use xlink:href="#triangle2" transform="translate(202,485) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,395)" />
+<use xlink:href="#triangle2" transform="translate(246,525) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(202,435)" />
+<use xlink:href="#triangle2" transform="translate(202,565) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(246,475)" />
+<use xlink:href="#triangle2" transform="translate(246,605) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,-25)" />
+<use xlink:href="#triangle2" transform="translate(265,65) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,15)" />
+<use xlink:href="#triangle2" transform="translate(309,105) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,55)" />
+<use xlink:href="#triangle2" transform="translate(265,145) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,95)" />
+<use xlink:href="#triangle2" transform="translate(309,185) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,135)" />
+<use xlink:href="#triangle2" transform="translate(265,225) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,175)" />
+<use xlink:href="#triangle2" transform="translate(309,265) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,215)" />
+<use xlink:href="#triangle2" transform="translate(265,305) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,255)" />
+<use xlink:href="#triangle2" transform="translate(309,345) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,295)" />
+<use xlink:href="#triangle2" transform="translate(265,385) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,335)" />
+<use xlink:href="#triangle2" transform="translate(309,425) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,375)" />
+<use xlink:href="#triangle2" transform="translate(265,465) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,415)" />
+<use xlink:href="#triangle2" transform="translate(309,505) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(265,455)" />
+<use xlink:href="#triangle2" transform="translate(265,545) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(309,495)" />
+<use xlink:href="#triangle2" transform="translate(309,585) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,-45)" />
+<use xlink:href="#triangle2" transform="translate(328,85) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,-5)" />
+<use xlink:href="#triangle2" transform="translate(372,125) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,35)" />
+<use xlink:href="#triangle2" transform="translate(328,165) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,75)" />
+<use xlink:href="#triangle2" transform="translate(372,205) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,115)" />
+<use xlink:href="#triangle2" transform="translate(328,245) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,155)" />
+<use xlink:href="#triangle2" transform="translate(372,285) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,195)" />
+<use xlink:href="#triangle2" transform="translate(328,325) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,235)" />
+<use xlink:href="#triangle2" transform="translate(372,365) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,275)" />
+<use xlink:href="#triangle2" transform="translate(328,405) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,315)" />
+<use xlink:href="#triangle2" transform="translate(372,445) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,355)" />
+<use xlink:href="#triangle2" transform="translate(328,485) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,395)" />
+<use xlink:href="#triangle2" transform="translate(372,525) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(328,435)" />
+<use xlink:href="#triangle2" transform="translate(328,565) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(372,475)" />
+<use xlink:href="#triangle2" transform="translate(372,605) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,-25)" />
+<use xlink:href="#triangle2" transform="translate(391,65) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,15)" />
+<use xlink:href="#triangle2" transform="translate(435,105) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,55)" />
+<use xlink:href="#triangle2" transform="translate(391,145) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,95)" />
+<use xlink:href="#triangle2" transform="translate(435,185) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,135)" />
+<use xlink:href="#triangle2" transform="translate(391,225) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,175)" />
+<use xlink:href="#triangle2" transform="translate(435,265) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,215)" />
+<use xlink:href="#triangle2" transform="translate(391,305) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,255)" />
+<use xlink:href="#triangle2" transform="translate(435,345) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,295)" />
+<use xlink:href="#triangle2" transform="translate(391,385) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,335)" />
+<use xlink:href="#triangle2" transform="translate(435,425) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,375)" />
+<use xlink:href="#triangle2" transform="translate(391,465) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,415)" />
+<use xlink:href="#triangle2" transform="translate(435,505) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(391,455)" />
+<use xlink:href="#triangle2" transform="translate(391,545) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(435,495)" />
+<use xlink:href="#triangle2" transform="translate(435,585) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,-45)" />
+<use xlink:href="#triangle2" transform="translate(454,85) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,-5)" />
+<use xlink:href="#triangle2" transform="translate(498,125) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,35)" />
+<use xlink:href="#triangle2" transform="translate(454,165) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,75)" />
+<use xlink:href="#triangle2" transform="translate(498,205) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,115)" />
+<use xlink:href="#triangle2" transform="translate(454,245) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,155)" />
+<use xlink:href="#triangle2" transform="translate(498,285) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,195)" />
+<use xlink:href="#triangle2" transform="translate(454,325) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,235)" />
+<use xlink:href="#triangle2" transform="translate(498,365) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,275)" />
+<use xlink:href="#triangle2" transform="translate(454,405) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,315)" />
+<use xlink:href="#triangle2" transform="translate(498,445) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,355)" />
+<use xlink:href="#triangle2" transform="translate(454,485) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,395)" />
+<use xlink:href="#triangle2" transform="translate(498,525) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(454,435)" />
+<use xlink:href="#triangle2" transform="translate(454,565) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(498,475)" />
+<use xlink:href="#triangle2" transform="translate(498,605) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,-25)" />
+<use xlink:href="#triangle2" transform="translate(517,65) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,15)" />
+<use xlink:href="#triangle2" transform="translate(561,105) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,55)" />
+<use xlink:href="#triangle2" transform="translate(517,145) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,95)" />
+<use xlink:href="#triangle2" transform="translate(561,185) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,135)" />
+<use xlink:href="#triangle2" transform="translate(517,225) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,175)" />
+<use xlink:href="#triangle2" transform="translate(561,265) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,215)" />
+<use xlink:href="#triangle2" transform="translate(517,305) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,255)" />
+<use xlink:href="#triangle2" transform="translate(561,345) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,295)" />
+<use xlink:href="#triangle2" transform="translate(517,385) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,335)" />
+<use xlink:href="#triangle2" transform="translate(561,425) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,375)" />
+<use xlink:href="#triangle2" transform="translate(517,465) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,415)" />
+<use xlink:href="#triangle2" transform="translate(561,505) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(517,455)" />
+<use xlink:href="#triangle2" transform="translate(517,545) scale(1,-1)" />
+<use xlink:href="#triangle1" transform="translate(561,495)" />
+<use xlink:href="#triangle2" transform="translate(561,585) scale(1,-1)" />
+
+
+<use xlink:href="#diamond1" transform="translate(-48,-45)" />
+<use xlink:href="#diamond1" transform="translate(-48,85) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,-5)" />
+<use xlink:href="#diamond2" transform="translate(-5,125) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,35)" />
+<use xlink:href="#diamond1" transform="translate(-48,165) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,75)" />
+<use xlink:href="#diamond2" transform="translate(-5,205) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,115)" />
+<use xlink:href="#diamond1" transform="translate(-48,245) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,155)" />
+<use xlink:href="#diamond2" transform="translate(-5,285) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,195)" />
+<use xlink:href="#diamond1" transform="translate(-48,325) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,235)" />
+<use xlink:href="#diamond2" transform="translate(-5,365) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,275)" />
+<use xlink:href="#diamond1" transform="translate(-48,405) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,315)" />
+<use xlink:href="#diamond2" transform="translate(-5,445) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,355)" />
+<use xlink:href="#diamond1" transform="translate(-48,485) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,395)" />
+<use xlink:href="#diamond2" transform="translate(-5,525) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(-48,435)" />
+<use xlink:href="#diamond1" transform="translate(-48,565) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(-5,475)" />
+<use xlink:href="#diamond2" transform="translate(-5,605) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(49,-45) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,85) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,-5) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,125) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,35) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,165) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,75) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,205) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,115) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,245) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,155) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,285) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,195) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,325) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,235) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,365) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,275) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,405) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,315) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,445) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,355) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,485) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,395) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,525) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(49,435) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(49,565) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(92,475) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(92,605) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(78,-45)" />
+<use xlink:href="#diamond1" transform="translate(78,85) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,-5)" />
+<use xlink:href="#diamond2" transform="translate(121,125) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,35)" />
+<use xlink:href="#diamond1" transform="translate(78,165) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,75)" />
+<use xlink:href="#diamond2" transform="translate(121,205) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,115)" />
+<use xlink:href="#diamond1" transform="translate(78,245) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,155)" />
+<use xlink:href="#diamond2" transform="translate(121,285) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,195)" />
+<use xlink:href="#diamond1" transform="translate(78,325) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,235)" />
+<use xlink:href="#diamond2" transform="translate(121,365) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,275)" />
+<use xlink:href="#diamond1" transform="translate(78,405) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,315)" />
+<use xlink:href="#diamond2" transform="translate(121,445) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,355)" />
+<use xlink:href="#diamond1" transform="translate(78,485) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,395)" />
+<use xlink:href="#diamond2" transform="translate(121,525) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(78,435)" />
+<use xlink:href="#diamond1" transform="translate(78,565) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(121,475)" />
+<use xlink:href="#diamond2" transform="translate(121,605) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(175,-45) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,85) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,-5) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,125) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,35) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,165) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,75) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,205) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,115) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,245) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,155) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,285) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,195) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,325) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,235) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,365) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,275) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,405) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,315) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,445) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,355) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,485) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,395) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,525) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(175,435) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(175,565) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(218,475) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(218,605) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(204,-45)" />
+<use xlink:href="#diamond1" transform="translate(204,85) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,-5)" />
+<use xlink:href="#diamond2" transform="translate(247,125) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,35)" />
+<use xlink:href="#diamond1" transform="translate(204,165) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,75)" />
+<use xlink:href="#diamond2" transform="translate(247,205) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,115)" />
+<use xlink:href="#diamond1" transform="translate(204,245) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,155)" />
+<use xlink:href="#diamond2" transform="translate(247,285) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,195)" />
+<use xlink:href="#diamond1" transform="translate(204,325) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,235)" />
+<use xlink:href="#diamond2" transform="translate(247,365) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,275)" />
+<use xlink:href="#diamond1" transform="translate(204,405) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,315)" />
+<use xlink:href="#diamond2" transform="translate(247,445) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,355)" />
+<use xlink:href="#diamond1" transform="translate(204,485) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,395)" />
+<use xlink:href="#diamond2" transform="translate(247,525) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(204,435)" />
+<use xlink:href="#diamond1" transform="translate(204,565) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(247,475)" />
+<use xlink:href="#diamond2" transform="translate(247,605) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(301,-45) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,85) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,-5) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,125) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,35) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,165) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,75) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,205) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,115) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,245) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,155) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,285) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,195) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,325) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,235) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,365) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,275) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,405) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,315) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,445) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,355) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,485) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,395) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,525) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(301,435) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(301,565) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(344,475) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(344,605) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(330,-45)" />
+<use xlink:href="#diamond1" transform="translate(330,85) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,-5)" />
+<use xlink:href="#diamond2" transform="translate(373,125) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,35)" />
+<use xlink:href="#diamond1" transform="translate(330,165) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,75)" />
+<use xlink:href="#diamond2" transform="translate(373,205) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,115)" />
+<use xlink:href="#diamond1" transform="translate(330,245) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,155)" />
+<use xlink:href="#diamond2" transform="translate(373,285) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,195)" />
+<use xlink:href="#diamond1" transform="translate(330,325) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,235)" />
+<use xlink:href="#diamond2" transform="translate(373,365) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,275)" />
+<use xlink:href="#diamond1" transform="translate(330,405) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,315)" />
+<use xlink:href="#diamond2" transform="translate(373,445) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,355)" />
+<use xlink:href="#diamond1" transform="translate(330,485) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,395)" />
+<use xlink:href="#diamond2" transform="translate(373,525) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(330,435)" />
+<use xlink:href="#diamond1" transform="translate(330,565) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(373,475)" />
+<use xlink:href="#diamond2" transform="translate(373,605) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(427,-45) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,85) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,-5) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,125) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,35) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,165) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,75) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,205) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,115) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,245) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,155) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,285) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,195) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,325) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,235) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,365) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,275) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,405) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,315) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,445) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,355) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,485) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,395) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,525) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(427,435) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(427,565) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(470,475) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(470,605) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(456,-45)" />
+<use xlink:href="#diamond1" transform="translate(456,85) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,-5)" />
+<use xlink:href="#diamond2" transform="translate(499,125) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,35)" />
+<use xlink:href="#diamond1" transform="translate(456,165) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,75)" />
+<use xlink:href="#diamond2" transform="translate(499,205) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,115)" />
+<use xlink:href="#diamond1" transform="translate(456,245) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,155)" />
+<use xlink:href="#diamond2" transform="translate(499,285) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,195)" />
+<use xlink:href="#diamond1" transform="translate(456,325) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,235)" />
+<use xlink:href="#diamond2" transform="translate(499,365) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,275)" />
+<use xlink:href="#diamond1" transform="translate(456,405) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,315)" />
+<use xlink:href="#diamond2" transform="translate(499,445) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,355)" />
+<use xlink:href="#diamond1" transform="translate(456,485) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,395)" />
+<use xlink:href="#diamond2" transform="translate(499,525) scale(1,-1)" />
+<use xlink:href="#diamond1" transform="translate(456,435)" />
+<use xlink:href="#diamond1" transform="translate(456,565) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(499,475)" />
+<use xlink:href="#diamond2" transform="translate(499,605) scale(1,-1)" />
+<use xlink:href="#diamond2" transform="translate(553,-45) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,85) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,-5) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,125) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,35) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,165) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,75) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,205) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,115) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,245) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,155) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,285) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,195) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,325) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,235) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,365) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,275) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,405) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,315) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,445) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,355) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,485) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,395) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,525) scale(-1,-1)"/>
+<use xlink:href="#diamond2" transform="translate(553,435) scale(-1,1)"/>
+<use xlink:href="#diamond2" transform="translate(553,565) scale(-1,-1)"/>
+<use xlink:href="#diamond1" transform="translate(596,475) scale(-1,1)"/>
+<use xlink:href="#diamond1" transform="translate(596,605) scale(-1,-1)"/>
+
+</svg>
+
+
